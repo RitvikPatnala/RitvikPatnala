@@ -9,7 +9,7 @@ Single-cycle RV32I processor core in SystemVerilog — register file, ALU, and i
 
 **Tools**: SystemVerilog, Icarus Verilog (Simulation), Surfer (Waveform Viewing)
 
-### FPGA Tetris System
+### [FPGA Tetris System](https://github.com/RitvikPatnala/fpga-tetris)
 Complete hardware gaming system on a Xilinx FPGA: grid-based game logic in SystemVerilog, ROM/palette VGA rendering pipeline with HDMI (TMDS) output, and USB keyboard input via a MAX3421E over SPI, bridged to a MicroBlaze soft core through AXI4-Lite memory-mapped registers. RTL verified with testbenches and a logic analyzer to isolate SPI protocol faults. ~17K LUTs / 58.5 BRAM. 
 
 **Tools**: SystemVerilog, Vivado, Vitis, MicroBlaze, AXI4-Lite
