@@ -4,7 +4,7 @@ ECE student at the University of Illinois Urbana-Champaign (BS '26, MEng '27), f
 
 ## 🔧 Featured Projects
 
-### RV32I RISC-V CPU Core 🚧 in progress
+### [RV32I RISC-V CPU Core](https://github.com/RitvikPatnala/riscv-cpu-core) 🚧 in progress
 Single-cycle RV32I processor core in SystemVerilog — register file, ALU, and instruction/data memory — verified with self-checking testbenches covering same-cycle read/write hazards, x0 semantics, and signed/unsigned comparison boundaries. Now extending it into a 5-stage pipeline with data forwarding, load-use stall handling, and branch flushing. 
 
 **Tools**: SystemVerilog, Icarus Verilog (Simulation), Surfer (Waveform Viewing)
