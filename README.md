@@ -31,7 +31,7 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
-**Automated DJ System** — [ECE 420 final project — link once repo is up]
+**Automated DJ System** 
   Real-time audio DSP system for automated track mixing and transitions. 
 
 **GPU-Accelerated CNN Inference** — CUDA C++ forward pass in MXNet with
