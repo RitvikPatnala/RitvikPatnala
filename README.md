@@ -31,8 +31,8 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
-**Automated DJ System** - Android app that automatically mixes two songs like a DJ. Detecting beats, structural sections, and energy levels via digital signal processing to choose musically coherent transition points, then crossfading and tempo-matching in real time. Hybrid architecture: Java/Android UI with all real-time DSP in native C++ over JNI and prototyping done on Python. 
-Tools: C++, Java/Android, JNI, Python, DSP (STFT, mel spectrograms, autocorrelation)
+**Automated DJ System** - Android app that automatically mixes two songs like a DJ. Detecting beats, structural sections, and energy levels via digital signal processing to choose musically coherent transition points, then crossfading and tempo-matching in real time. Hybrid architecture: Java/Android UI with all real-time DSP, and prototyping done on Python. 
+**Tools**: C++, Java/Android, JNI, Python, DSP (STFT, mel spectrograms, autocorrelation)
 
 **GPU-Accelerated CNN Inference** — CUDA C++ forward pass in MXNet with
   shared-memory tiling, cuBLAS SGEMM, and Tensor Core (WMMA) integration.
