@@ -31,7 +31,7 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
-**Automated DJ System** - Android app that automatically mixes two songs like a DJ. Detecting beats, structural sections, and energy levels via digital signal processing to choose musically coherent transition points, then crossfading and tempo-matching in real time. Hybrid architecture: Java/Android UI with all real-time DSP, and prototyping done on Python. 
+**Automated DJ System** — Android app that automatically mixes two songs like a DJ. Detecting beats, structural sections, and energy levels via digital signal processing to choose musically coherent transition points, then crossfading and tempo-matching in real time. Hybrid architecture: Java/Android UI with all real-time DSP, and prototyping done on Python. 
 
 **Tools**: C++, Java/Android, JNI, Python, DSP (STFT, mel spectrograms, autocorrelation)
 
