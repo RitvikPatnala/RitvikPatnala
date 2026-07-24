@@ -48,12 +48,17 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 🛠️ Skills
 **Digital Design & RTL:** SystemVerilog, VHDL, RTL design, digital verification (self-checking testbenches), FSM design, pipelining & hazard resolution
+
 **Computer Architecture:** RISC-V (RV32I), pipelined microarchitecture (forwarding, hazard detection, branch resolution), MicroBlaze soft-core integration, AXI/AXI4-Lite
+
 **FPGA & Simulation Tools:** Xilinx Vivado, Vitis, Altera Quartus, Icarus Verilog, Surfer (waveform viewing)
+
 **Embedded & PCB Design:** KiCAD, Altium Designer, LTSpice, ESP32/MCU firmware (C), PCB bring-up & validation
+
 **Programming:** C/C++, Python, MATLAB, CUDA
+
 **Protocols & Lab Equipment:** SPI, I2C, UART, AXI, CAN, LIN | Oscilloscope, logic analyzer, function generator, DMM, bench power supply
 
 ## 📫 Reach Me
 
-[LinkedIn](www.linkedin.com/in/ritvik-patnala-927206214) | patnala3@illinois.edu | ritvikpatnala851@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ritvik-patnala-927206214)| patnala3@illinois.edu | ritvikpatnala851@gmail.com
