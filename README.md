@@ -21,6 +21,8 @@ Handheld device that detects a guitar string's pitch and physically tunes the pe
 
 ## 💼 Experience Highlights
 
+*Code from industry work is proprietary: descriptions only. Happy to discuss the technical details in depth.*
+
 ### KPIT Technologies: Middleware Intern - AUTOSAR Configuration and AI Automation 
 Configured and validated AUTOSAR Basic Software modules for automotive ECUs, managing network interfaces like CAN and LIN protocols while coordinating in cross-functional teams with software, systems, and validation engineers. Prototyped an AI-driven framework by engineering LLM agents to parse vector and relational databases and dynamically update ECU configuration files based on natural language user queries. 
 
