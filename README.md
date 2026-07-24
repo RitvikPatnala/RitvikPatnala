@@ -31,10 +31,15 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
+**Automated DJ System** — [ECE 420 final project — link once repo is up]
+  Real-time audio DSP system for automated track mixing and transitions. 
+
 **GPU-Accelerated CNN Inference** — CUDA C++ forward pass in MXNet with
   shared-memory tiling, cuBLAS SGEMM, and Tensor Core (WMMA) integration.
   Profiled with Nsight to cut inference latency 19%. *(Code
   available on request.)*
+
+  
 
 ## 🛠️ Skills
 
