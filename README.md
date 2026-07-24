@@ -31,7 +31,10 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
-
+**GPU-Accelerated CNN Inference** — CUDA C++ forward pass in MXNet with
+  shared-memory tiling, cuBLAS SGEMM, and Tensor Core (WMMA) integration.
+  Profiled with Nsight to cut inference latency 19%. *(Code
+  available on request.)*
 
 ## 🛠️ Skills
 
