@@ -61,4 +61,4 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📫 Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/ritvik-patnala-927206214)| patnala3@illinois.edu | ritvikpatnala851@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ritvik-patnala-927206214) | patnala3@illinois.edu | ritvikpatnala851@gmail.com
