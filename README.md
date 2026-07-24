@@ -40,8 +40,20 @@ Developed a Python-based scripting tool to automate translation of test cases in
   Profiled with Nsight to cut inference latency 19%. *(Code
   available on request.)*
 
+**Tools**: CUDA C++, MXNet, cuBLAS, Tensor Cores (WMMA), NVIDIA Nsight Systems/Compute
   
+**LDO Regulator** — Two-stage LDO voltage regulator designed in Cadence Virtuoso on a 0.18µm CMOS process, regulating a 1.8V ±10% supply down to a 1.0–1.4V output across a 0.1–10 mA load range. Phase margin ≥60°  at full load, with DC load/line regulation and PSR characterized in simulation across the load current range.
+
+**Tools**: Cadence Virtuoso, Analog IC design
 
 ## 🛠️ Skills
+**Digital Design & RTL:** SystemVerilog, VHDL, RTL design, digital verification (self-checking testbenches), FSM design, pipelining & hazard resolution
+**Computer Architecture:** RISC-V (RV32I), pipelined microarchitecture (forwarding, hazard detection, branch resolution), MicroBlaze soft-core integration, AXI/AXI4-Lite
+**FPGA & Simulation Tools:** Xilinx Vivado, Vitis, Altera Quartus, Icarus Verilog, Surfer (waveform viewing)
+**Embedded & PCB Design:** KiCAD, Altium Designer, LTSpice, ESP32/MCU firmware (C), PCB bring-up & validation
+**Programming:** C/C++, Python, MATLAB, CUDA
+**Protocols & Lab Equipment:** SPI, I2C, UART, AXI, CAN, LIN | Oscilloscope, logic analyzer, function generator, DMM, bench power supply
 
 ## 📫 Reach Me
+
+[LinkedIn](www.linkedin.com/in/ritvik-patnala-927206214) | patnala3@illinois.edu | ritvikpatnala851@gmail.com
