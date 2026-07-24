@@ -31,8 +31,8 @@ Developed a Python-based scripting tool to automate translation of test cases in
 
 ## 📁 More Projects
 
-**Automated DJ System** 
-  Real-time audio DSP system for automated track mixing and transitions. 
+**Automated DJ System** - Android app that automatically mixes two songs like a DJ. Detecting beats, structural sections, and energy levels via digital signal processing to choose musically coherent transition points, then crossfading and tempo-matching in real time. Beat tracking (STFT → autocorrelation) validated against Tunebat references within ~0.5 BPM across genres; added a custom tempo-ramping function so the second track eases back to its original tempo after the transition instead of snapping abruptly. The paper this was built on doesn't handle that case. Hybrid architecture: Java/Android UI with all real-time DSP in native C++ over JNI and prototyping done on Python. 
+Tools: C++, Java/Android, JNI, Python, DSP (STFT, mel spectrograms, autocorrelation)
 
 **GPU-Accelerated CNN Inference** — CUDA C++ forward pass in MXNet with
   shared-memory tiling, cuBLAS SGEMM, and Tensor Core (WMMA) integration.
